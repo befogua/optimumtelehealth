@@ -1,0 +1,26 @@
+#summary One-sentence summary of this page.
+#labels telehealth,teledoc,TELEDOCTOR,telemedicine,medicine,clinic,eddiemckibbin,development
+
+= Introduction =
+
+These are the details of the TeleHealth development meeting 
+
+= Details =
+
+This is the total sum of development meeting DEV-001 020909
+*In attendance Jerry Schrader, Johnny Cruz, JR Diaz, Chris Batie, and Eddie Mckibbin*
+
+*Discussed how to run a standard clinic visit. *
+Patient logs on to our web interface from thier home, place of business, etc. and makes an appointment for our teledoctor. They show up at the clinic, and either sign in or get signed in and at that point they are put into a final lineup queue. Suggested that possibly the appointments are lined up automatically via time available to keep from having any space inbetween appointments. Patient is seen when thier time comes up, at this point, probably a Medical Assistant (MA) would guide them to an examination room, take thier vitals, (eventually through electronic devices) maybe at this point physically then faxed or emailed to doctor. The doctor is logged on at his computer, and the patient comes up on his screen. It is a split screen, the left half is data, patients vitals, history, what is going on, etc. The right half of the screen shows the live image of the patient through our camera. The patient and doctor have a "visit", the doctor prescribes any treatment, medications, etc. logs in all data about the patient, which then is safely sent to a HIPPA approved data warehouse where it cannot be altered. At this point, the doctors screen would take on the next patient. 
+*The first doctor* is the treating doctor, he prescribes all treatment. At this point we would probably have a second doctor or secondary consult. 
+
+*Scanner possibly used for doctor to scan in information*
+
+*Voice Recognition*
+Discussed was Voice Recognition software for the doctor to use for notes'
+
+*fax machine to identify where it is from and who the patient is*
+
+* Need for procedures* to be written on how to operate 
+
+*MEETING ENDED @ 4:45PM*
