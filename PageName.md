@@ -1,0 +1,127 @@
+# Introduction #
+
+This is a little information about telemedicine from the original WIKI
+
+
+# Details #
+
+Telehealth
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+Merge arrows
+> It has been suggested that this article or section be merged with Telemedicine. (Discuss)
+
+Telehealth is the delivery of health-related services and information via telecommunications technologies. Telehealth delivery could be as simple as two health professionals discussing a case over the telephone, or as sophisticated as using videoconferencing to between providers at facilities in two countries, or even as complex as robotic technology.
+
+Telehealth is an expansion of telemedicine, and unlike telemedicine (which more narrowly focuses on the curative aspect) it encompasses preventive, promotive and curative aspects. Originally used to describe administrative or educational functions related to telemedicine, today telehealth stresses a myriad of technology solutions. For example, physicians use email to communicate with patients, order drug prescriptions and provide other health services.
+Contents
+[hide](hide.md)
+
+  * 1 Clinical uses of telehealth technologies
+  * 2 Nonclinical uses of telehealth technologies
+  * 3 Telehealth modes
+> > o 3.1 Store-and-forward telehealth
+> > o 3.2 Real-time telehealth
+> > o 3.3 Remote monitoring
+  * 4 Benefits of telehealth
+  * 5 External links
+  * 6 Further reading
+  * 7 See also
+
+[edit](edit.md) Clinical uses of telehealth technologies
+
+  * Transmission of medical images for diagnosis (often referred to as store and forward telehealth)
+  * Groups or individuals exchanging health services or education live via videoconference (real-time telehealth)
+  * Transmission of medical data for diagnosis or disease management (sometimes referred to as remote monitoring)
+  * Advice on prevention of diseases and promotion of good health by patient monitoring and followup.
+  * Health advice by telephone in emergent cases(referred to as teletriage)
+
+[edit](edit.md) Nonclinical uses of telehealth technologies
+
+  * Distance education including continuing medical education, grand rounds, and patient education
+  * Administrative uses including meetings among telehealth networks, supervision, and presentations
+  * Research
+  * Online information and health data management
+  * heathcare system integration
+  * asset identification, listing, and patient to asset matching, and movement
+  * overall healtcare system management
+  * patient movement and remote admission
+
+[edit](edit.md) Telehealth modes
+
+[edit](edit.md) Store-and-forward telehealth
+
+In store-and-forward telehealth, digital images, video, audio and clinical data are captured and "stored" on the client computer; then at a convenient time transmitted securely ("forwarded") to a clinic at another location where they are studied by relevant specialists. The opinion of the specialist is then transmitted back. Based on the requirements of the participating healthcare entities, this roundtrip could take between 2 to 48 hours. In many store-and-forward specialties, such as teleradiology, an immediate response is not critical. Dermatology, radiology and pathology are common specialties that are conducive to store-and-forward technologies.
+
+[edit](edit.md) Real-time telehealth
+
+In real-time telehealth, a telecommunications link allows instantaneous interaction. Video-conferencing equipment is one of the most common forms of synchronous telemedicine. Peripheral devices can also be attached to computers or the video-conferencing equipment which can aid in an interactive examination. With the availability of better and cheaper communication channels, direct two-way audio and video streaming between centers through computers is leading to lower costs.
+
+Examples of real-time clinical telehealth include:
+
+  * Telemental Health -- the use of videoconferencing technology to connect a psychiatrist with a mental health client
+  * Telerehabilitation
+  * Telecardiology
+  * Teleneurology
+  * Telenursing
+  * Teleradiology
+  * Teledentistry
+
+[edit](edit.md) Remote monitoring
+
+In remote monitoring, sensors are used to capture and transmit biometric data. For example, a tele-EEG device monitors the electrical activity of a patients brain and then transmits that data to a specialist. This could be done in either real time or the data could be stored and then forwarded.
+
+Examples of remote monitoring include:
+
+  * Home-based nocturnal dialysis [1](1.md)
+  * Cardiac and multi-parameter monitoring of remote ICUs
+  * Home telehealth
+  * Disease management
+
+[edit](edit.md) Benefits of telehealth
+
+Telehealth benefits patients in countries where traditional delivery of health services are affected by distance and lack of local specialist clinicians to deliver services. The rate of adoption of telehealth services in any jurisdiction is frequently influenced by factors such as the adequacy and cost of existing conventional health services in meeting patient needs; the policies of governments and/or insurers with respect to coverage and payment for telehealth services; and medical licensing requirements that may inhibit or deter the provision of telehealth second opinions or primary consultations by physicians.
+
+[edit](edit.md) External links
+
+  * U.S. Department of Veterans Affairs Care Coordination/Telehealth Program
+  * National Center for Telehealth & Technology
+  * Center for Telehealth & E-Health Law
+  * UCLA Wireless Health Institute
+  * American Telemedicine Association
+  * Telemedicine Information Exchange
+  * Telehealth Ontario
+  * Ontario Telemedicine Network -- Making the Connection for Health
+  * Tasmanian government
+  * Office for the Advancement of Telehealth (established by the Health Resources and Services Administration)
+  * NHS Direct, the UK National Health Service information service
+  * Association of Telehealth Service Providers
+  * International Society for Telemedicine & eHealth
+  * Med-e-Tel - The International Educational and Networking Forum for eHealth, Telemedicine and Health ICT
+  * University of Florida Center for Telehealth
+  * National Rural Health Association
+  * Community for Teledermatology
+  * Scottish Centre for Telehealth
+  * British Columbia Alliance on Telehealth Policy and Research
+  * University of New Mexico Telehealth
+
+[edit](edit.md) Further reading
+
+  * Telemedicine,Telehealth, and the Consumer Online introduction and primer to telehealth and telemedicine from the Telemedicine Information Exchange
+  * Norris, A. C. (2002). Essentials of Telemedicine and Telecare. West Sussex, England; New York: John Wiley & Sons, Ltd. ISBN 0-471-53151-0.
+  * Maheu, Marlene M.; Whitten, Pamela; & Allen, Ace (2001). E-Health, Telehealth, and Telemedicine: A Guide to Start-up and Success. San Francisco: Jossey Bass. ISBN 0-7879-4420-3.
+  * Olmeda, Christopher J. (2000). Information Technology in Systems of Care. Delfin Press. ISBN 978-0-9821442-0-6
+  * Telehealth Technical Assistance Manual - A document to assist in the planning of telehealth and telemedicine projects for rural community and migrant health centers and other health care organizations. By Samuel G. Burgess, Ph.D. October 2006
+
+[edit](edit.md) See also
+
+  * Ontario Telemedicine Network
+  * Telemedicine
+  * eHealth
+  * mHealth
+  * Center for Telehealth & E-Health Law
+  * American Telemedicine Association
+  * National Rural Health Association
+
+Retrieved from "http://en.wikipedia.org/wiki/Telehealth"
+Categories: Telecommunication services | Health care informatics
